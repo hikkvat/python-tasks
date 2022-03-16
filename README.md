@@ -1,2 +1,2 @@
 # python-tasks
-my solutions to exercises in the python-advanced course
+my solutions to exercises in the python course
