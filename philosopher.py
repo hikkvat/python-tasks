@@ -6,7 +6,7 @@ import time
 logging.basicConfig(level='INFO')
 logger = logging.getLogger(__name__)
 
-
+# философы с менеджером контекста
 class Philosopher(threading.Thread):
     running = True  # used to check if everyone is finished eating
 
